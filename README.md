@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mosiah Andrade</h1>
-<img src="https://www.bing.com/images/search?view=detailV2&ccid=N%2fqhJCuY&id=872D3ACB1B2849BEBC242677596B3991318FC080&thid=OIP.N_qhJCuYVneQ_aAkDgURWgAAAA&mediaurl=https%3a%2f%2fmedia.tenor.co%2fimages%2f37faa1242b98567790fda0240e05115a%2fraw&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.37faa1242b98567790fda0240e05115a%3frik%3dgMCPMZE5a1l3Jg%26pid%3dImgRaw%26r%3d0&exph=348&expw=428&q=gif+DnD+hello&simid=608013966582092868&FORM=IRPRST&ck=BD97F19B396321D87B68C5D3D2E556DA&selectedIndex=21&itb=0" width="50px">
+<iframe src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="480" height="343" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094">via GIPHY</a></p>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 - 🌱 I’m currently learning **JavaScript, Figma**
