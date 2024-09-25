@@ -2,7 +2,7 @@
 <img  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjB6NzZsbzR3Nnhob3M4bGEwMzBwaW14a3AxNDNpdHk0ZzA5cjdmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp" width="440px" align="right" >
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **JavaScript, Figma**
+- 🌱 I’m currently learning **JavaScript, Figma and front-end development**
 
 - 📫 How to reach me **mosiahassuncao@gmail.com**
 
